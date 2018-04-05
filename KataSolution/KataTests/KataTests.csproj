@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="ArithmeticProgressionTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RGBToHexConversionTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
