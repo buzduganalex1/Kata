@@ -49,6 +49,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArithmeticProgressionTest.cs" />
+    <Compile Include="Helpers\IPassPhraseHelper.cs" />
+    <Compile Include="Helpers\PassPhraseHelper.cs" />
+    <Compile Include="PlayingWithPassphrases.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RGBToHexConversionTest.cs" />
   </ItemGroup>
