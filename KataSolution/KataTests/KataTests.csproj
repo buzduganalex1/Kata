@@ -49,11 +49,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArithmeticProgressionTest.cs" />
+    <Compile Include="ConsecutiveStrings.cs" />
+    <Compile Include="FindingMissingLetterTest.cs" />
     <Compile Include="Helpers\IPassPhraseHelper.cs" />
     <Compile Include="Helpers\PassPhraseHelper.cs" />
+    <Compile Include="MiddleCharacterTest.cs" />
     <Compile Include="PlayingWithPassphrases.cs" />
+    <Compile Include="PlayingWithPassphrasesTest.cs" />
+    <Compile Include="PrimeNumberTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RGBToHexConversionTest.cs" />
+    <Compile Include="ShortestWordTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
